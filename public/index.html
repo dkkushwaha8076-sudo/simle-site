@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Admin Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Student Records Management</h1>
+    <form id="student-form">
+        <input type="hidden" id="student-id">
+        <input type="text" id="student-name" placeholder="Name" required>
+        <input type="text" id="student-father-name" placeholder="Father's Name" required>
+        <input type="number" id="student-age" placeholder="Age" required>
+        <input type="text" id="student-height" placeholder="Height (cm)" required>
+        <input type="text" id="student-body-color" placeholder="Body Color" required>
+        <input type="text" id="student-grade" placeholder="Grade" required>
+        <button type="submit">Save</button>
+    </form>
+    <table id="student-table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Father's Name</th>
+                <th>Age</th>
+                <th>Height</th>
+                <th>Body Color</th>
+                <th>Grade</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <script src="script.js"></script>
+</body>
+</html>

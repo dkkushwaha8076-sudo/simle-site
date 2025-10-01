@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1759165344478",
+    "name": "aman",
+    "fatherName": "sanjeev singh",
+    "age": "17",
+    "height": "25",
+    "bodyColor": "brown",
+    "grade": "c"
+  },
+  {
+    "id": "1759165629369",
+    "name": "suraj",
+    "fatherName": "sanjeev singh",
+    "age": "17",
+    "height": "25",
+    "bodyColor": "brown",
+    "grade": "c"
+  },
+  {
+    "id": "1759167006869",
+    "name": "Dk",
+    "fatherName": "Gk",
+    "age": "54",
+    "height": "253",
+    "bodyColor": "Bro",
+    "grade": "A"
+  },
+  {
+    "id": "1759167006870",
+    "name": "don",
+    "fatherName": "sanjeev singh",
+    "age": "34",
+    "height": "23",
+    "bodyColor": "brown",
+    "grade": "c"
+  }
+]
